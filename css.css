@@ -8,7 +8,7 @@
 
 body{
     font-family: sans-serif;
-    background-color: #1a1919;
+    background-color: #000000;
 }
 
 .conteiner{
@@ -17,7 +17,7 @@ body{
 }
 
 .header {
-    background-image: url(images/7.jpg);
+    background-image: url(7.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
