@@ -28,6 +28,10 @@ body{
     text-align: center;
 }
 
+.header-info{
+    text-shadow: 2px 2px 4px #000000ad;
+}
+
 .menu {
     position: absolute;
     top: 0;
